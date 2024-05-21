@@ -1,0 +1,45 @@
+p {
+    /* m10 */
+    margin: 10px;
+    /* m10-20 */
+    margin: 10px 20px;
+    /* m-10-10 */
+    margin: -10px 10px;
+    /* m-10--10 */
+    margin: -10px -10px;
+
+    /* p-10 */
+    padding: -10px;
+    /* m10p */
+    margin: 10%;
+
+    /* fz20 */
+    font-size: 20px;
+
+    /* c#f */
+    color: #fff;
+
+    /* bgc#123 */
+    background-color: #123;
+
+    /* por */
+    position: relative;
+
+    /* db */
+    display: block;
+    
+    /* dib */
+    display: inline-block;
+
+    /* df */
+    display: flex;
+
+    /* ttu */
+    text-transform: uppercase;
+
+    /* tac */
+    text-align: center;
+
+    /* fwb */
+    font-weight: bold;
+}
